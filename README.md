@@ -1,4 +1,5 @@
 # Hough-Transform-to-Find-Lane-Lines
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ## Implementing a Hough Transform on Edge Detected Image
 
